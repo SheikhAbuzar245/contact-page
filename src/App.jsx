@@ -1,23 +1,13 @@
-
+import Header from './Components/Header'
+import Contact from './Components/Contact'
 import './App.css'
 
 function App() {
 
   return (
     <>
-      <div className="container">
-        <div className="header">
-          <img src={Logo} alt="" />
-
-          <ul className="nav-links">
-            <li>Menu</li>
-            <li>Location</li>
-            <li>About</li>
-            <li>Contact</li>
-          </ul>
-        </div>
-      </div>
-
+      <Header/>
+      <Contact/>
     </>
   )
 }
