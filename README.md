@@ -1,8 +1,11 @@
-# React + Vite
+# Figma to React JS Contact Page UI Design Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Figma Link: https://www.figma.com/design/Buq50IZ1jFADX7tNn1C7IT/Untitled?node-id=0-6&node-type=frame&t=jNRcEl5wMrmaB8qU-0
 
-Currently, two official plugins are available:
+Deployed Link: 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+![End Output](https://github.com/SheikhAbuzar245/contact-page/blob/main/src/assets/Contact%20page.png)
+
+
+
